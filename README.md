@@ -65,7 +65,7 @@ $ npm run dev
 ---
 
 
-## :hammer: Utilitários
+## :hammer: Utilities
 
 - Deploy: https://food-explorerv2.netlify.app
 - back-end repository: [**backend**](https://github.com/filipezzo/food-explorer-v2-backend)
